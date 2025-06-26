@@ -14,7 +14,7 @@ export default function Page() {
           <p className={`text-xl text-lime-400 md:text-3xl md:leading-normal`}>
             <strong>HOLA MUNDO</strong>
           </p>
-           <p className="text-lime-400">
+           <p className="text-lime-400 md:text-3xl">
           Estoy practicando typescrip
            </p>                                       
    
